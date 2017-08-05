@@ -11,7 +11,7 @@ RESTful api using slim framework
 
 3- Install SlimPHP and dependencies using: 
 ``` sh
-$ composer
+$ composer install
 ```
 API Endpints
 ``` sh
