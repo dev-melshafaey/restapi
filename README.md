@@ -15,9 +15,9 @@ $ composer
 ```
 API Endpints
 ``` sh
-$ GET /api/customers
-$ GET /api/customer/{id}
-$ POST /api/customer/add
-$ PUT /api/customer/update/{id}
-$ DELETE /api/customer/delete/{id}
+$ GET /public/customers
+$ GET /public/customer/{id}
+$ POST /public/customer/add
+$ PUT /public/customer/update/{id}
+$ DELETE /public/customer/delete/{id}
 ```
