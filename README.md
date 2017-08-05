@@ -5,11 +5,11 @@ RESTful api using slim framework
 
 ### Installation
 
-import database from slimapp.sql
+1- import database from slimapp.sql
 
-Edit db/config params
+2- Edit config.php for your connection params
 
-Install SlimPHP and dependencies
+3- Install SlimPHP and dependencies using: 
 ``` sh
 $ composer
 ```
