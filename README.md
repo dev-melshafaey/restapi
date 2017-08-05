@@ -10,8 +10,9 @@ import database from slimapp.sql
 Edit db/config params
 
 Install SlimPHP and dependencies
-
+``` sh
 $ composer
+```
 API Endpints
 
 $ GET /api/customers
